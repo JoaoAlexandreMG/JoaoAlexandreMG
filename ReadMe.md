@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  Estudante de Back End<br>👯 Estou a procura de Estágio<br>🌱 Aprendendo mais sobre Python
+🔭  Estudante de programação<br>👯 A procura de Estágio<br>
 
 
 ## 🌐 Socials:
