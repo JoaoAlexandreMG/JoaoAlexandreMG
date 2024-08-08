@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoalexandremg&label=Profile%20views&color=0e75b6&style=flat" alt="joaoalexandremg" /> </p>
 
-- 🔭 I’m currently working on [my_portfolio](https://github.com/JoaoAlexandreMG/Portfolio)
+- 🔭 I’m currently working on [my_site](https://github.com/JoaoAlexandreMG/my_site)
 
 - 🌱 I’m currently learning **web-development**
 
