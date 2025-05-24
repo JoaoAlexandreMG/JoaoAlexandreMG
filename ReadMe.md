@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoalexandremg&label=Profile%20views&color=0e75b6&style=flat" alt="joaoalexandremg" /> </p>
 
-- 🔭 I’m currently working on [my_site](https://github.com/JoaoAlexandreMG/my_site)
+- 🔭 I’m currently working on []()
 
 - 🌱 I’m currently learning **web-development**
 
 - 📫 How to reach me **j.sa@ufu.br**
 
-- 📄 Know about my experiences [https://joaoasa.netlify.app/](https://joaoasa.netlify.app/)
+- 📄 Know about my experiences []()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
